@@ -1,6 +1,3 @@
-NAME: VARSHA SARATHY
-REG NO: 212223040233
-
 # Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
